@@ -1,2 +1,2 @@
 print("hello world again")
-print("I can do this all day")
+print("I do this all day")
